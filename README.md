@@ -1,5 +1,4 @@
 Recipe App :
-
 • Developed a web application that allows users to search and discover recipes effortlessly.
 • Technologies Used: HTML, CSS, JavaScript, Fetch API.
 
