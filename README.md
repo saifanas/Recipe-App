@@ -1,4 +1,12 @@
- Recipe  App :
+# Recipe App
+
+ 
+ 
+ 
+ 
+ 
+ 
+ # Recipe  App :
  
    The Recipe Finder app is a web application designed to help users search and discover recipes effortlessly. Built with HTML, CSS, and JavaScript, this app provides a simple and interactive way to explore a variety of 
    dishes based on ingredients or dish names.
